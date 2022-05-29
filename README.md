@@ -1,1 +1,1 @@
-# EvilHangman
+# Evil Hangman
